@@ -1,0 +1,6 @@
+theme: just-the-docs
+
+title: My Project Docs
+
+just_the_docs:
+   search_enabled: true
